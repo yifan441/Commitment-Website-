@@ -1,0 +1,109 @@
+body {
+  background-color: #92b4ec;
+}
+
+#commit-section {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+  padding: 50px;
+}
+
+#commit-section > h1 {
+  font-size: 70px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#commit-section > p {
+  font-size: 30px;
+  font-weight: 600;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+#commit-btn {
+  color: #040b30;
+  background-color: #f4d376;
+  padding: 15px 56px;
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 12px;
+  border: 1.5px solid #172b92;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+  margin-bottom: 40px;
+}
+
+#commit-btn:hover {
+  text-decoration: underline;
+}
+
+#info-div {
+  text-align: left;
+  font-size: 25px;
+  background-color: white;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  width: 50%;
+  border: 23px solid #fdebb4;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  padding: 40px;
+}
+
+#info-div-header {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#bruinbear {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+  width: 400px;
+  height: auto;
+}
+
+#dashboard-div {
+  text-align: center;
+  background-color: white;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  width: 50%;
+  border: 23px solid #fdebb4;
+  border-radius: 10px;
+  margin-bottom: 50px;
+}
+
+#dashboard-div > p {
+  font-size: 40px;
+  margin: 58px 40px 60px;
+}
+
+#dashboard-btn {
+  color: #040b30;
+  background-color: #f4d376;
+  padding: 18px 45px;
+  font-size: 40px;
+  font-weight: bold;
+  border-radius: 12px;
+  border: 1.5px solid #172b92;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.7);
+  cursor: pointer;
+  margin-bottom: 30px;
+}
+
+#dashboard-btn:hover {
+  text-decoration: underline;
+}
+
+#tac-section {
+  text-align: center;
+  color: black;
+  font-size: 25px;
+  margin-bottom: 50px;
+}
